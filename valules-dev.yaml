@@ -1,0 +1,2 @@
+tgb:
+  arn: arn:aws:elasticloadbalancing:us-east-1:369012866895:targetgroup/roboshop-dev-frontend/8f9bc5e6d9f31011
