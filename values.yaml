@@ -1,5 +1,5 @@
 deployment:
-  imageRepo: 369012866895.dkr.ecr.us-east-1.amazonaws.com/roboshop/frontend
-  imageVersion: IMAGE_VERSION
+  imageRepo: 466089068450.dkr.ecr.us-east-1.amazonaws.com/roboshop/frontend
+  imageVersion: 1.1.0
 service:
   servicePort: 80 # default value
